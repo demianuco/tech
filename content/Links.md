@@ -1,0 +1,68 @@
+# Apps, Tools
+
+| Office                                                                        | Finance, Utilities                                                      | Online Toos                                                                                                                      | AI                                                  |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| [Google GMail](https://mail.google.com/mail/u/0/#inbox)                       | [CaixaBank](https://www.caixabank.es/bancaprivada/bancaprivada_es.html) | WhatsApp                                                                                                                         | [OpenAI ChatGPT](https://chat.openai.com)           |
+| [Google Calendar](https://calendar.google.com/calendar/r?tab=mc)              | [Number26](https://my.number26.de/)                                     | [Notion](https://www.notion.so/d30ae3bd32d[Notion](https://www.notion.so/d30ae3bd32d14dcb82b9ec34c5c280ef)14dcb82b9ec34c5c280ef) | [Google Gemini](https://gemini.google.com/app)      |
+| [Google Tasks](https://calendar.google.com/calendar/u/0/r/tasks?tab=mc&pli=1) | [Octopus Energy](https://octopusenergy.es/dashboard/accounts)           | [Photopea](https://www.photopea.com/)                                                                                            | [Microsoft CoPilot](https://copilot.microsoft.com/) |
+| [Google Contacts](https://contacts.google.com/)                               | [Visalia)](https://clientes.visalia.com.es/summary/)                    | [SoftCatala](https://www.softcatala.org/traductor/)                                                                              | [Anthropic Claude](https://claude.ai/new)           |
+| [Google Keep](https://keep.google.com/u/0/)                                   | [Movistar](https://www.movistar.es/area-cliente/mis-productos/)         | [Garmin Connect](https://connect.garmin.com/modern/dashboard/2159840)                                                            |                                                     |
+| [Microsoft OneDrive](https://keep.google.com/u/0/)                            | [Luderna](https://www.movistar.es/area-cliente/mis-productos/)          | [Strava](https://www.strava.com/dashboard)                                                                                       |                                                     |
+| [Microsoft Outlook](https://outlook.live.com/mail/0/)                         |                                                                         |                                                                                                                                  |                                                     |
+# Weather
+
+| AEMET                                                                                        | Meteocat                                                         | Yr                                                                                                                | Other                                                                                                                  |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| [Torrdembarra](https://www.aemet.es/es/eltiempo/prediccion/municipios/torredembarra-id43153) | [Torrdembarra](https://www.meteo.cat/prediccio/municipal/431536) | [Torredembarra](https://www.yr.no/en/forecast/daily-table/2-3107807/Spain/Catalonia/Tarragona/Torredembarra)      | [Infonieve - Baqueira](https://www.yr.no/en/forecast/daily-table/2-9794353/Spain/Catalonia/Lleida/Cap%20de%20Baqueira) |
+| [Salardú](http://www.aemet.es/es/eltiempo/prediccion/municipios/naut-aran-salardu-id25025)   | [Salardú](https://www.meteo.cat/prediccio/municipal/431536)      | [Salardú](https://www.yr.no/en/forecast/daily-table/2-3111103/Spain/Catalonia/Lleida/Salard%C3%BA)                |                                                                                                                        |
+| [Pirineo](https://www.aemet.es/es/eltiempo/prediccion/montana?w=&p=cat1)                     | [Pirineo](https://www.meteo.cat/prediccio/pirineu)               | [Baqueira](https://www.yr.no/en/forecast/daily-table/2-3106380/Spain/Catalonia/Lleida/Baqueira)                   |                                                                                                                        |
+| [Catalunya](http://www.aemet.es/es/eltiempo/prediccion/espana?k=cat&w=11)                    | [Catalunya](https://www.meteo.cat/prediccio/general)             | [Baqueira Beret](https://www.yr.no/en/forecast/daily-table/2-6453245/Spain/Catalonia/Lleida/Baqueira%20Beret)     |                                                                                                                        |
+| [Modelos numéricos](http://www.aemet.es/es/eltiempo/prediccion/espana?k=cat&w=11)            |                                                                  | [Cap de Baqueira](https://www.yr.no/en/forecast/daily-table/2-9794353/Spain/Catalonia/Lleida/Cap%20de%20Baqueira) |                                                                                                                        |
+| [Mapas con frentes](http://www.aemet.es/es/eltiempo/prediccion/mapa_frentes)                 |                                                                  |                                                                                                                   |                                                                                                                        |
+|                                                                                              |                                                                  |                                                                                                                   |                                                                                                                        |
+
+# Maps
+
+| General                                                                                                                                                                                            | Open                                                                              | Adventure                                                                                                                              | Misc                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Locus Map](https://web.locusmap.app/en/?lat=41.287625&lng=1.251669&z=13)                                                                                                                          | [Open Street Map](http://www.openstreetmap.org/#map=13/57.2424/-6.1958&layers=CN) | [Catalunya Rutes](https://www.instamaps.cat/visor.html?businessid=2f08e70736cb9cf09213a307484d72e7#11/41.7979/1.6644)                  | [park4night](https://park4night.com/es)                                                                                                                                                   |
+| [Google Maps](https://www.google.com/maps)                                                                                                                                                         | [Open Topo Map](https://opentopomap.org/#map=5/49.000/10.000)                     | [Catalunya Cims](https://www.instamaps.cat/visor.html?businessid=b982f628a8ad9c885323237661080179#8/41.685/1.785)                      | [Strava Heat Map](https://www.strava.com/maps/global-heatmap?sport=RunLike&style=hybrid&terrain=false&labels=true&poi=true&cPhotos=true&gColor=blue&gOpacity=57#15.48/41.169284/1.450158) |
+| [Google Earth](https://earth.google.com/web/)                                                                                                                                                      | [Open Hike & Bike](http://hikebikemap.org/)                                       | [Val d'Arán BTT](https://www.instamaps.cat/instavisor/6463bc089de248c264e43a4b8add5739/Rutas_BTT_Val_d_Aran_ES.html#14/42.7052/0.9008) | [ShadeMap](https://shademap.app/@41.12936,1.35503,16.26558z,1667984723309t,0b,0p,0m)                                                                                                      |
+| [ICGC Vissir3](http://www.icc.cat/vissir3/index.html?mp_y=n%3A4669890.079946489&mp_x=n%3A457469.27882273705&&mp_zoom=n%3A5&mp_visibility_Topogr%26agrave%3Bfic=b%3A1&mp_visibility_Ortofoto=b%3A0) | [Open Sea Map](http://map.openseamap.org/)                                        | [Val d'Arán Terrenys](https://www.instamaps.cat/instavisor/1fd9843621dad8a0f2951ce74ada61be/ATES_Aran.html#)                           | [PeakVisor](https://peakvisor.com/peak/montardo.html)                                                                                                                                     |
+| [Strava Maps](https://www.strava.com/maps/global-heatmap?sport=RunLike&style=hybrid&terrain=false&labels=true&poi=true&cPhotos=true&gColor=blue&gOpacity=57#11/41.1172/1.2547)                     | [Open Snow Map](https://www.opensnowmap.org/)                                     | [Refuges (World)](http://maps.refuges.info/)                                                                                           | [Catalunya Comarques](https://www.instamaps.cat/instavisor/7c7b6db5c2b156294793e4bd41c27383/Comarques_de_Catalunya.html#9/41.6668/1.7853)                                                 |
+| [IDEE](https://www.idee.es/visualizador/?lang=ES)                                                                                                                                                  | [Waymarked Trails](https://hiking.waymarkedtrails.org/#?map=7!51.3634!2.5419)     | [Refuges (France)](http://maps.refuges.info/)                                                                                          |                                                                                                                                                                                           |
+|                                                                                                                                                                                                    |                                                                                   | [XCTrails](https://www.xctrails.org/map/map.html?type=xc)                                                                              |                                                                                                                                                                                           |
+
+# Government
+
+### España
+
+- [Agencia Tributaria - Notificaciones](https://sede.agenciatributaria.gob.es/Sede/procedimientoini/ZN01.shtml).
+- [Pasarela Seguridad Social](https://sp.seg-social.es/PGIS/Login?seleccion=none)
+- [Sede Electrónica del Catastro](https://www.sedecatastro.gob.es/OVCInicio.aspx?Seguir=S)
+- [Sede Electrónica del Catastro - Valor de Referencia](https://www1.sedecatastro.gob.es/Accesos/SECAccvr.aspx)
+
+### Catalunya
+
+- [Administració Oberta Catalunya - El Meu Espai](https://seu-e.cat/mygov/inici)
+- [GenCat - Carpeta Tributaria](http://web.gencat.cat/)
+- [GenCat - Notificacions](https://ovt.gencat.cat/gsitfc/AppJava/nottel/notificationPassKey.do?reqCode=chooseAcces&set-locale=ca_ES&portalId=1)
+
+### Torredembarra
+
+- (Pending)
+
+### Naut Arán
+
+- [OAGRTL Lleida](https://tramits.oagrtl.cat/)
+- [Ajuntament de Naut Aran - Seu Electrònica](https://seu.nautaran.org/catala/emiservicio/41E6BF9D755E4825AF8E6B49E85B5079.asp)
+- [Ajuntament Lleida - Oficina Virtual Tributària](https://ajuntamentlleida.tributoslocales.es/ovt/EXPE/251203/ALLEIDA/noauth/cobro)
+
+### Tarragona
+
+- [Ajuntament Tarragona - Oficina Virtual Tributària](https://ajuntamenttarragona.tributoslocales.es/ct/)
+- [Associació Veïns de La Mora-Tamarit](https://www.lamora-tamarit.cat/)
+- [Xarxa Santa Tecla](https://citacio.xarxatecla.cat/home)
+### Barcelona
+
+- [Ajuntament de Barcelona - Oficina Virtual](https://seuelectronica.ajuntament.barcelona.cat/oficinavirtual/es/citizen-personal-information?tab=my-dates)
