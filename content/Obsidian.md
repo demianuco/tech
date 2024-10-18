@@ -150,4 +150,8 @@ npx quartz build --serve
 
 ### Publish Quartz website
 
-If set up correctly, publishing can be done automatically simply by synching the quartz website tot  
+Follow the instructions [here](https://quartz.jzhao.xyz/hosting) to setup [GitHub Pages](https://pages.github.com/).
+
+If set up correctly, your pages will be automatically hosted when you build and sync your quartz content. After that, you can browse the online website at the following URL:
+
+	https://{githubusername}.github.io/{reponame}/
