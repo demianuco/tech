@@ -132,11 +132,12 @@ I like creating aliases for this and other Quartz workflow in my `.bashrc` file:
 
 ```sh
 # Tech Vault
-alias obs-tech-rsync="rsync --delete --recursive --exclude='.git*' --exclude='.obsidian' ~/obsidian/'Tech Vault'/* ~/quartz/tech/content/"
-alias obs-tech-build="cd ~/quartz/tech/; npx quartz build; cd ~"
-alias obs-tech-sync="cd ~/quartz/tech/; npx quartz sync; cd ~"
-alias obs-tech-all="obs-tech-rsync; obs-tech-build; obs-tech-sync"
-alias ota="obs-tech-all"
+# Tech Vault
+alias q.tech.meld="meld ~/OneDrive/Documents/Demian/Obsidian/'Tech Vault'/ ~/quartz/tech/content/ &"
+alias q.tech.rsync="rsync --verbose --delete --recursive --exclude='.git*' --exclude='.obsidian' ~/OneDrive/Documents/Demian/Obsidian/'Tech Vault'/* ~/quartz/tech/content/"
+alias q.tech.build="cd ~/quartz/tech/; npx quartz build"
+alias q.tech.sync="cd ~/quartz/tech/; npx quartz sync"
+alias q.tech.all="qtz-tech-rsync; qtz-tech-build; qtz-tech-sync"
 ```
 
 ### Build Quartz website
