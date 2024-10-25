@@ -6,6 +6,11 @@ date: 2024-10-18
 
 - [[Links]]
 
-# Tutorials
+# Linux Mint
 
-- [[Obsidian]]
+- [[Spectre Install Log]]
+- [[Surface Install Log]]
+
+# Coding
+
+- Pending

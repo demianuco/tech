@@ -50,7 +50,7 @@
 
 ### Torredembarra
 
-- (Pending)
+- [Ajuntament Torredembarra](https://torredembarra.cat/)
 
 ### Naut Arán
 
