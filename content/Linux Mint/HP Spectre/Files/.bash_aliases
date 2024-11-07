@@ -89,11 +89,11 @@ alias q.tech.meld="meld ~/OneDrive/Documents/Demian/Obsidian/'Tech Vault'/ ~/qua
 alias q.tech.rsync="rsync --verbose --delete --recursive --exclude='.git*' --exclude='.obsidian' ~/OneDrive/Documents/Demian/Obsidian/'Tech Vault'/* ~/quartz/tech/content/"
 alias q.tech.build="cd ~/quartz/tech/; npx quartz build"
 alias q.tech.sync="cd ~/quartz/tech/; npx quartz sync"
-alias q.tech.all="qtz-tech-rsync; qtz-tech-build; qtz-tech-sync"
+alias q.tech.all="q.tech.rsync; q.tech.build; q.tech.sync"
 
 # Rosella Vault
 alias q.rosella.meld="meld ~/OneDrive/Documents/Demian/Obsidian/'Rosella Vault'/ ~/quartz/rosella/content/ &"
 alias q.rosella.rsync="rsync --verbose --delete --recursive --exclude='.git*' --exclude='.obsidian' ~/OneDrive/Documents/Demian/Obsidian/'Rosella Vault'/* ~/quartz/rosella/content/"
 alias q.rosella.build="cd ~/quartz/rosella/; npx quartz build"
 alias q.rosella.sync="cd ~/quartz/rosella/; npx quartz sync"
-alias q.rosella.all="qtz-rosella-rsync; qtz-rosella-build; qtz-rosella-sync"
+alias q.rosella.all="q.rosella.rsync; q.rosella.build; q.rosella.sync"
