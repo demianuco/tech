@@ -1,7 +1,7 @@
 # Nerd Fonts
 
 > [!NOTE]
-> Refer to [this guide](https://www.debugpoint.com/fonts-mint-cinnamon/) for full instructions.
+> Full instructions [here](https://www.debugpoint.com/fonts-mint-cinnamon/).
 
 Navigate to [Nerd Fonts](https://www.nerdfonts.com) and download the required fonts. We recommend the following:
 

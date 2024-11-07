@@ -1,0 +1,13 @@
+#------------------------------------------------------------------------------
+# Linux PATHS
+#
+
+# Add the ~/.local/bin folder, where some apps put their user binaries.
+export PATH=~/.local/bin/:$PATH
+
+# Add the ~/bin folder, where personal scripts and executables are placed, to the PATH
+export PATH=~/bin/:$PATH
+
+# Add PostgreSQL bin path, so we can launch some tools directly
+# export PATH=/usr/lib/postgresql/12/bin/:$PATH
+

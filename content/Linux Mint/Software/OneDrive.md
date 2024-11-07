@@ -1,7 +1,7 @@
 # Client
 
 > [!NOTE]
-> Refer to [this guide](https://github.com/abraunegg/onedrive/blob/master/docs/ubuntu-package-install.md) for full instructions
+> Full instructions [here](https://github.com/abraunegg/onedrive/blob/master/docs/ubuntu-package-install.md).
 
 ```sh
 

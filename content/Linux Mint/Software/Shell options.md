@@ -10,7 +10,6 @@ Right-click on calendar on bottom-right of taskbar and configure as follows:
 
 # Locales
 
-
 > [!NOTE]
 > Details on locales can be found in Locale Helper:
 > - [en_US](https://lh.2xlibre.net/locale/en_US/)

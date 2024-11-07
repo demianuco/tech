@@ -6,4 +6,4 @@
 
 # Manually
 
-- - 2024-10-21 - KeePassXC
+- 2024-10-21 - KeePassXC

@@ -24,7 +24,7 @@ Download binaries from [exa website](https://the.exa.website) and extract to tem
 # Download and unzip
 cd ~/Downloads
 wget https://github.com/ogham/exa/releases/download/v0.10.0/exa-linux-x86_64-v0.10.0.zip
-unzip -d ex a exa-linux-x86_64-v0.10.0.zip
+unzip -d exa exa-linux-x86_64-v0.10.0.zip
 ```
 
 Copy the binaries to their respective destionations:
@@ -35,9 +35,9 @@ sudo cp exa/bin/exa /usr/local/bin/
 # Copy completions
 sudo cp exa/completions/exa.bash /etc/bash_completion.d/
 # Copy man pages
-mkdir -p /usr/local/share/man/man1
+sudo mkdir -p /usr/local/share/man/man1
 sudo cp exa/man/exa.1 /usr/local/share/man/man1/
-mkdir -p /usr/local/share/man/man5
+sudo mkdir -p /usr/local/share/man/man5
 sudo cp exa/man/exa_colors.5 /usr/local/share/man/man5/
 # Recreate man db
 mandb
@@ -100,4 +100,10 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 
 ```sh
 npm install -g tldr
+```
+
+# htop
+
+```sh
+sudo apt install htop
 ```

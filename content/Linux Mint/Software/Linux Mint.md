@@ -1,7 +1,7 @@
 # Download ISO
 
 > [!NOTE]
-> Instructions below are a summary of the [official instructions](https://linuxmint-installation-guide.readthedocs.io/en/latest/choose.html).
+> Full instructions [here](https://linuxmint-installation-guide.readthedocs.io/en/latest/choose.html).
 
 Choose the right edition, which in my case is Cinnamon, and download it from one of the download mirrors [here](https://www.linuxmint.com/mirrors.php) or [here](https://mirrors.kernel.org/linuxmint/stable/). Don't forget to also download the `.txt` and `.txt.gpg` files required to verify the integrity of the ISO image.
 
